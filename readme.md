@@ -1,11 +1,12 @@
 # Awesome Go [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of services that can export the personal data you own
+> A curated list of instructions for various services on how to export your personal data
 
 
 ## Contents
 
 - [Data Exporting](#data-exporting)
+- - [TikTok](#tiktok)
 
 
 ## Data Exporting
