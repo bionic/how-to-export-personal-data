@@ -1,28 +1,18 @@
-# awesome-personal-data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Go [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of services that can export the personal data you own
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Data Exporting](#data-exporting)
 
 
-## Section
+## Data Exporting
 
-About this section. Optional. Keep this short and focus on the list.
+### TikTok
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+Settings -> Privacy -> Personalization & Data
 
 
 ## Contribute
