@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [Education](#education)
+  - [Duolingo](#duolingo)
 - [Social Networks](#social-networks)
   - [Facebook](#facebook)
   - [Google](#google)
@@ -15,6 +17,11 @@
   - [TikTok](#tiktok)
   - [Tinder](#tinder)
 
+## Education
+
+### Duolingo
+
+https://drive-thru.duolingo.com/
 
 ## Social Networks
 
