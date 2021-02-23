@@ -1,7 +1,6 @@
 # How to export personal data?
 
-> A curated list of links and instructions for various services on how to export your personal data.
-
+> A curated list of links and instructions for various services.
 
 ## Contents
 
@@ -68,4 +67,4 @@ https://account.gotinder.com/data
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome!
