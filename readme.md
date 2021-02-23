@@ -14,8 +14,8 @@ Contributions are welcome!
 - [Education](#education)
   - [Duolingo](#duolingo)
 - [Shopping](#shopping)
-  - [eBay](#ebay)
   - [Amazon](#amazon)
+  - [eBay](#ebay)
 - [Social Networks](#social-networks)
   - [Facebook](#facebook)
   - [Google](#google)
@@ -25,6 +25,8 @@ Contributions are welcome!
   - [Telegram](#telegram)
   - [TikTok](#tiktok)
   - [Tinder](#tinder)
+- [Travel](#travel)
+  - [Airbnb](#airbnb)
 
 ## General
 
@@ -44,13 +46,13 @@ https://drive-thru.duolingo.com/
 
 ## Shopping
 
-### eBay
-
-https://www.sarweb.ebay.com/sar
-
 ### Amazon
 
 https://www.amazon.com/gp/privacycentral/dsar/preview.html
+
+### eBay
+
+https://www.sarweb.ebay.com/sar
 
 ## Social Networks
 
@@ -81,3 +83,9 @@ Mobile App: Settings => Privacy => Personalization & Data
 ### Tinder
 
 https://account.gotinder.com/data
+
+## Travel
+
+### Airbnb
+
+https://www.airbnb.com/privacy/manage-your-data
