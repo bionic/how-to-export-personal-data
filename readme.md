@@ -1,6 +1,6 @@
-# Awesome Personal Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# How to export personal data?
 
-> A curated list of instructions for various services on how to export your personal data
+> A curated list of links and instructions for various services on how to export your personal data.
 
 
 ## Contents
