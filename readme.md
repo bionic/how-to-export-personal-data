@@ -8,10 +8,14 @@ Contributions are welcome!
 
 ## Contents
 
+- [General](#general)
+  - [Apple](#apple)
+  - [Google](#google)
 - [Education](#education)
   - [Duolingo](#duolingo)
 - [Shopping](#shopping)
   - [eBay](#ebay)
+  - [Amazon](#amazon)
 - [Social Networks](#social-networks)
   - [Facebook](#facebook)
   - [Google](#google)
@@ -21,6 +25,16 @@ Contributions are welcome!
   - [Telegram](#telegram)
   - [TikTok](#tiktok)
   - [Tinder](#tinder)
+
+## General
+
+### Apple
+
+https://privacy.apple.com/ => "Get a copy of your data"
+
+### Google
+
+https://takeout.google.com/
 
 ## Education
 
@@ -34,15 +48,15 @@ https://drive-thru.duolingo.com/
 
 https://www.sarweb.ebay.com/sar
 
+### Amazon
+
+https://www.amazon.com/gp/privacycentral/dsar/preview.html
+
 ## Social Networks
 
 ### Facebook
 
 https://www.facebook.com/dyi
-
-### Google
-
-https://takeout.google.com/
 
 ### Instagram
 
@@ -58,11 +72,11 @@ https://accounts.snapchat.com/accounts/downloadmydata
 
 ### Telegram
 
-Desktop App (https://desktop.telegram.org/ only): Settings -> Advanced -> Export Telegram data 
+Desktop App (https://desktop.telegram.org/ only): Settings => Advanced => Export Telegram data 
 
 ### TikTok
 
-Mobile App: Settings -> Privacy -> Personalization & Data
+Mobile App: Settings => Privacy => Personalization & Data
 
 ### Tinder
 
