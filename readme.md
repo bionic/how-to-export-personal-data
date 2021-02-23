@@ -2,6 +2,10 @@
 
 > A curated list of links and instructions for various services.
 
+While working on [Bionic](https://github.com/bionic-dev/bionic), we had to download a lot of GDPR exports from different services. Most of the time, services make it quite hard to find the actual export button. In some cases, you can never get to the button from the product interface, the link would be hidden somewhere in the help center. So, we decided to a compile a list of export links for popular services.
+
+Contributions are welcome!
+
 ## Contents
 
 - [Education](#education)
@@ -54,17 +58,12 @@ https://accounts.snapchat.com/accounts/downloadmydata
 
 ### Telegram
 
-Settings -> Advanced -> Export Telegram data (in https://desktop.telegram.org/ only)
+Desktop App (https://desktop.telegram.org/ only): Settings -> Advanced -> Export Telegram data 
 
 ### TikTok
 
-Settings -> Privacy -> Personalization & Data
+Mobile App: Settings -> Privacy -> Personalization & Data
 
 ### Tinder
 
 https://account.gotinder.com/data
-
-
-## Contribute
-
-Contributions are welcome!
