@@ -25,6 +25,9 @@ Contributions are welcome!
   - [Tinder](#tinder)
   - [Tumblr](#tumblr)
   - [X/Twitter](#x/twitter)
+- [Media](#media)
+  - [Netflix](#netflix)
+  - [Spotify](#spotify)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
   - [Yelp](#yelp)
@@ -95,6 +98,16 @@ https://www.tumblr.com/settings/blog/ => "Export"
 ### X/Twitter
 
 https://twitter.com/settings/download_your_data
+
+## Media
+
+### Netflix
+
+https://www.netflix.com/account/getmyinfo
+
+### Spotify
+
+https://www.spotify.com/us/account/privacy/
 
 ## Travel
 
