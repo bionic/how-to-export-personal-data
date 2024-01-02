@@ -23,8 +23,14 @@ Contributions are welcome!
   - [Telegram](#telegram)
   - [TikTok](#tiktok)
   - [Tinder](#tinder)
+  - [Tumblr](#tumblr)
+  - [X/Twitter](#x/twitter)
+- [Media](#media)
+  - [Netflix](#netflix)
+  - [Spotify](#spotify)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
+  - [Yelp](#yelp)
 
 ## General
 
@@ -33,6 +39,8 @@ Contributions are welcome!
 https://privacy.apple.com/ => "Get a copy of your data"
 
 ### Google
+
+Also includes YouTube, Gmail, and other Google-owned products.
 
 https://takeout.google.com/
 
@@ -77,13 +85,36 @@ Desktop App (https://desktop.telegram.org/ only): Settings => Advanced => Export
 ### TikTok
 
 Mobile App: Settings => Privacy => Personalization & Data
+Web: https://www.tiktok.com/setting/download-your-data
 
 ### Tinder
 
 https://account.gotinder.com/data
+
+### Tumblr
+
+https://www.tumblr.com/settings/blog/ => "Export"
+
+### X/Twitter
+
+https://twitter.com/settings/download_your_data
+
+## Media
+
+### Netflix
+
+https://www.netflix.com/account/getmyinfo
+
+### Spotify
+
+https://www.spotify.com/us/account/privacy/
 
 ## Travel
 
 ### Airbnb
 
 https://www.airbnb.com/privacy/manage-your-data
+
+### Yelp
+
+https://yelp.com/profile_privacy => "Download a copy of your account data"
