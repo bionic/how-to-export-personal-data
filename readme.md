@@ -9,11 +9,14 @@ Contributions are welcome!
 - [General](#general)
   - [Apple](#apple)
   - [Google](#google)
+  - [OpenAI](#openai)
 - [Education](#education)
   - [Duolingo](#duolingo)
 - [Shopping](#shopping)
   - [Amazon](#amazon)
+  - [DoorDash](#doordash)
   - [eBay](#ebay)
+  - [GrubHub](#grubhub)
 - [Social Networks](#social-networks)
   - [Facebook](#facebook)
   - [Google](#google)
@@ -30,6 +33,8 @@ Contributions are welcome!
   - [Spotify](#spotify)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
+  - [Lyft](#lyft)
+  - [Uber](#uber)
   - [Yelp](#yelp)
 
 ## General
@@ -44,6 +49,10 @@ Also includes YouTube, Gmail, and other Google-owned products.
 
 https://takeout.google.com/
 
+### OpenAI
+
+https://chat.openai.com/#settings/DataControls
+
 ## Education
 
 ### Duolingo
@@ -56,9 +65,17 @@ https://drive-thru.duolingo.com/
 
 https://www.amazon.com/gp/privacycentral/dsar/preview.html
 
+### DoorDash
+
+https://www.doordash.com/consumer/privacy/manage_account/
+
 ### eBay
 
 https://www.sarweb.ebay.com/sar
+
+### GrubHub
+
+https://www.grubhub.com/help/privacy/manage-your-data
 
 ## Social Networks
 
@@ -114,6 +131,16 @@ https://www.spotify.com/us/account/privacy/
 ### Airbnb
 
 https://www.airbnb.com/privacy/manage-your-data
+
+### Lyft
+
+https://account.lyft.com/privacy/data
+
+### Uber
+
+Includes Uber ridesharing, Postmates, and Uber Eats
+
+https://myprivacy.uber.com/privacy/exploreyourdata/download
 
 ### Yelp
 
