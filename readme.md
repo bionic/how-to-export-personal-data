@@ -82,6 +82,10 @@ https://www.grubhub.com/help/privacy/manage-your-data
 
 ## Social Networks
 
+### Discord
+
+https://discord.com/app => "User Settings" (Cog icon in bottom left) => Privacy & Safety => "Request all of my Data"
+
 ### Facebook
 
 https://www.facebook.com/dyi
