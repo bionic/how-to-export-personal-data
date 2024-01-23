@@ -18,6 +18,7 @@ Contributions are welcome!
   - [eBay](#ebay)
   - [GrubHub](#grubhub)
 - [Social Networks](#social-networks)
+  - [Discord](#discord)
   - [Facebook](#facebook)
   - [Google](#google)
   - [Instagram](#instagram)
