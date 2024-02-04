@@ -18,6 +18,7 @@ Contributions are welcome!
   - [eBay](#ebay)
   - [GrubHub](#grubhub)
 - [Social Networks](#social-networks)
+  - [Discord](#discord)
   - [Facebook](#facebook)
   - [Google](#google)
   - [Instagram](#instagram)
@@ -31,6 +32,9 @@ Contributions are welcome!
 - [Media](#media)
   - [Netflix](#netflix)
   - [Spotify](#spotify)
+- [Health and Fitness](#health-and-fitness)
+  - [Fitbit](#fitbit)
+  - [Samsung Health](#samsung-health)
 - [Travel](#travel)
   - [Airbnb](#airbnb)
   - [Lyft](#lyft)
@@ -78,6 +82,10 @@ https://www.sarweb.ebay.com/sar
 https://www.grubhub.com/help/privacy/manage-your-data
 
 ## Social Networks
+
+### Discord
+
+https://discord.com/app => "User Settings" (Cog icon in bottom left) => Privacy & Safety => "Request all of my Data"
 
 ### Facebook
 
@@ -145,3 +153,17 @@ https://myprivacy.uber.com/privacy/exploreyourdata/download
 ### Yelp
 
 https://yelp.com/profile_privacy => "Download a copy of your account data"
+
+## Health and Fitness
+
+### Fitbit
+
+https://www.fitbit.com/settings/data/export
+
+Note that for some accounts, Fitbit data may be managed by [Google](#google). More information is available at https://support.google.com/fitbit/answer/14236615?
+
+### Samsung Health
+
+Mobile App: More options (three dots) => Settings => Download personal data => Download
+
+https://www.samsung.com/us/support/answer/ANS00085104/#ui-id-1
